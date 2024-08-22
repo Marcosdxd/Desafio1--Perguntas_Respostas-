@@ -1,6 +1,3 @@
-# Resolução dos desafios de programação
-
-Os códigos usados para a resolução dos desafios são em HTML e JavaScript. No entanto, em algumas questões é utilizado somente JavaScript.
 
 #### Desafios - Respostas
 
